@@ -1,0 +1,25 @@
+{
+  "name": "Chat-application using Node.js, Socket.IO and AngularJS",
+  "version": "1.0.0",
+  "description": "Chat-application using Node.js, Socket.IO and AngularJS",
+  "main": "app.js",
+  "dependencies": {
+    "express": "^4.13.4",
+    "socket.io": "^1.4.6"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/arvind5588"
+  },
+  "keywords": [
+    "socket.io",
+    "node.js",
+    "angular.js"
+  ],
+  "author": "Arvind Prajapati",
+  "license": "ISC"
+}
